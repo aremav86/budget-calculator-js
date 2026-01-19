@@ -24,9 +24,9 @@ function checkStatus (balance) {
 }
 
 const messages = {
-  success: (v) => `Остаток: ${v} €`,
+  success: (v) => `Остаток: ${v} $`,
   warning: () => `Вы вышли в ноль`,
-  error: (v) => `Перерасход: ${v} €`,
+  error: (v) => `Перерасход: ${v} $`,
 };
 
 
