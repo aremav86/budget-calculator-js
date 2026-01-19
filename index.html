@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Budget Calculator</title>  
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <div class="container">
+        <h1>Калькулятор бюджета</h1>
+
+    <div class="field">
+        <label for="incomeInput">Доход ($)</label>
+        <input id="incomeInput" type="number" placeholder="Например: 1500" />
+    </div>
+
+    <div class="field">
+        <label for="expensesInput">Расходы ($)</label>
+        <input id="expensesInput" type="number" placeholder="Например: 900"/>
+    </div>
+
+    <button id="calcBtn">Расчитать остаток</button>
+
+    <p id="error" class="message"></p>
+    <p id="result" class="message"></p>
+
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

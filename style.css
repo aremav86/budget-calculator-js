@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  width: 320px;
+  margin: 50px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+}
+
+.field {
+  margin-bottom: 15px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+}
+
+.message {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.success { color: green; }
+.warning { color: orange; }
+.error { color: red; }
