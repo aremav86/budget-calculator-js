@@ -25,4 +25,4 @@
 - базовый рефакторинг кода
 
 ## Demo
-- How to run https://aremav86.github.io/budget-calculator-js/
+- How to run: https://aremav86.github.io/budget-calculator-js/
