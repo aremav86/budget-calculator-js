@@ -23,3 +23,6 @@
 - валидация данных
 - разделение логики и интерфейса
 - базовый рефакторинг кода
+
+## Demo
+- How to run https://aremav86.github.io/budget-calculator-js/
